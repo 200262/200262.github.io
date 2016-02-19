@@ -1326,10 +1326,17 @@
 			}
 
 		.image.featured {
-			display: block;
-			width: 100%;
+			width: 700px;
 			margin: 0 0 2em 0;
+			float: right;
 		}
+
+		.image.howtoplay {
+			width: 700px;
+			margin: 0 0 2em 0;
+			float: right;
+		}
+
 
 /* Button */
 
