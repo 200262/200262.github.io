@@ -16,6 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		color:#000000;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1284,10 +1285,12 @@
 
 	header.style1 {
 		text-align: center;
+		color: #000000;
 	}
 
 		header.style1 h2 {
 			font-weight: 700;
+			color: #000000;
 		}
 
 		header.style1 p {
@@ -1569,13 +1572,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #009933 url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #009933 url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -1584,12 +1587,12 @@
 			}
 
 		.wrapper.style2 {
-			background: #fff;
+			background: #009933;
 		}
 
 			.wrapper.style2 .title {
-				background: #fff;
-				color: #484d55;
+				background: #009933;
+				color: #000000;
 			}
 
 		.wrapper.style3 {
@@ -1606,7 +1609,7 @@
 			}
 
 	#header-wrapper {
-		background: url("../../images/banner.jpg") center center;
+		background: url("http://thumbs.dreamstime.com/t/football-field-background-american-yard-lines-copy-space-45104259.jpg") center center;
 		background-size: cover;
 	}
 
@@ -1617,7 +1620,8 @@
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background: url("images/overlay.png");
+			background: url("images/overlay");
+			background-repeat: no-repeat;
 		}
 
 	#footer-wrapper {
