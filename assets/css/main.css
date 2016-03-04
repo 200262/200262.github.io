@@ -16,7 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-		color:#000000;
+		color:#009933;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1285,12 +1285,12 @@
 
 	header.style1 {
 		text-align: center;
-		color: #000000;
+		color: #009933;
 	}
 
 		header.style1 h2 {
 			font-weight: 700;
-			color: #000000;
+			color: #009933;
 		}
 
 		header.style1 p {
@@ -1572,27 +1572,29 @@
 			}
 
 		.wrapper.style1 {
-			background: #009933 url("images/overlay.png");
-			color: #eee;
+			background: #ffffff url("images/overlay.png");
+			color: #009933;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #009933 url("images/overlay.png");
-				color: #fff;
+				background: #ffffff url("images/overlay.png");
+				color: #009933;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
-				color: #fff;
+				color: #009933;
+
 			}
 
 		.wrapper.style2 {
-			background: #009933;
+			background: #ffffff;
+			color:#009933;
 		}
 
 			.wrapper.style2 .title {
-				background: #009933;
-				color: #000000;
+				background: #ffffff;
+				color: #009933;
 			}
 
 		.wrapper.style3 {
