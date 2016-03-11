@@ -1290,7 +1290,7 @@
 
 		header.style1 h2 {
 			font-weight: 700;
-			color: #009933;
+			color: #000000;
 		}
 
 		header.style1 p {
@@ -1332,12 +1332,14 @@
 			width: 700px;
 			margin: 0 0 2em 0;
 			float: right;
+			padding: 20px; 
 		}
 
 		.image.howtoplay {
 			width: 700px;
 			margin: 0 0 2em 0;
 			float: right;
+			padding: 20px;
 		}
 
 
@@ -1589,12 +1591,12 @@
 
 		.wrapper.style2 {
 			background: #ffffff;
-			color:#009933;
+			color:#000000;
 		}
 
 			.wrapper.style2 .title {
 				background: #ffffff;
-				color: #009933;
+				color: #000000;
 			}
 
 		.wrapper.style3 {
